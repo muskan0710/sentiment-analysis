@@ -1,0 +1,35 @@
+Sentiment Analysis on Mental Illness
+Abstract
+In the digital age, social media plays a crucial role in society. Social media provides a platform to youth for exchanging their views on public issues and express their personal issues. Hence online media can be used for studying the behavior of people. Applying sentiment analysis on the data obtained timely from social networking sites (here Twitter), depression, anorexia, and other similar mental illness can be predicted among youth. The importance of detecting depression is that it is the root cause of a plethora of diseases. Early prediction can also mitigate the number of suicides.  
+Introduction
+Sentiment Analysis or opinion mining or emotion AI is the process of extracting subjective information, opinions, and attributes from the text. It is a field within NLP (Natural Language Processing). It is a widely growing research area in computer science. There are numerous applications of sentiment analysis.
+•	Study the reviews of products, movies, airlines, and hotels.
+•	Prediction of election results.
+•	Feedback on medicine and drugs.
+•	Analyze flaws in a product.
+•	Compare similar products.
+•	Analyzing mental health issues.
+Literature Review 
+Islam, Md Rafiqul, Muhammad Ashad Kabir, Ashir Ahmed, Abu Raihan M. Kamal, Hua Wang, and Anwaar Ulhaq. "Depression detection from social network data using machine learning techniques." Health information science and systems6, no. 1 (2018): 8.
+This study aims to perform a depression analysis on Facebook data collected from an online public source. To investigate the effect of depression detection, it proposes a machine learning technique as an efficient and scalable method.
+The paper reports an implementation of the proposed method. It has evaluated the efficiency of its proposed method using a set of various psycholinguistic features. It shows that its proposed method can significantly improve the accuracy and classification error rate. In addition, the result shows that in different experiments Decision Tree (DT) gives the highest accuracy than other ML approaches to find the depression.
+
+
+
+
+
+
+
+Shen, Guangyao, Jia Jia, Liqiang Nie, Fuli Feng, Cunjun Zhang, Tianrui Hu, Tat-Seng Chua, and Wenwu Zhu. "Depression detection via harvesting social media: A multimodal dictionary learning solution." In Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence (IJCAI-17), pp. 3838-3844. 2017.
+
+This paper constructs datasets for online depression detection and analysis, including the well-labeled depression and non-depression datasets as well as a largescale depression-candidate dataset. In addition, it releases these datasets with features to facilitate wellness study for computer science and psychology.
+It extracts six groups of discriminant depression oriented features, namely, social network features, user profile features, visual features, emotional features, topic-level features, and domain-specific features to describe users from different aspects. As only a few of the users’ behaviors are symptoms of depression, it presents a multimodal depressive dictionary learning model to learn the sparse representation of users. These methods can be used to timely detect depression, take proactive care to prevent the depressed condition to be deteriorated.
+It analyzes feature contributions and online behaviors of depression. It makes efforts to reveal the behaviors not covered in depression criteria, trying to provide more perspectives and insights for depression researches.
+
+De Choudhury, Munmun, Michael Gamon, Scott Counts, and Eric Horvitz. "Predicting depression via social media." ICWSM13 (2013): 1-10.
+
+This study uses crowdsourcing to collect (gold standard) valuations from numerous hundred Twitter users who report that they have been detected with clinical MDD, by means of the CES-D2 (Center for Epidemiologic Studies Depression Scale) screening test. 
+Based on the recognized unit, they presented some measures and use them to quantify an person’s social media behavior for a year in advance of their reported onset of depression. These include measures of user engagement and emotion, egocentric social graph, linguistic style, depressive language use, and references of antidepressant medications. 
+It compares ithe behaviors of the depressed user class, and the standard user class through these measures. These findings indicate, for example, that individuals with depression show lowered social activity, higher negative emotion, high self-attentional focus, increased relational and medicinal concerns, and heightened expression of religious thoughts. Further, despite having smaller ego-networks, people in the depressed class appear to belong to firmly clustered close-knit networks and are classically highly embedded with the contacts in their ego network.  
+It influences the multiple types of signals obtained thus to build an MDD classifier, that can predict, ahead of MDD onset time, whether an individual is vulnerable to depression. These models show promise in predicting outcomes with an accuracy of 70% and a precision of 0.74. 
+It believes that this research can enable new mechanisms to identify at-risk individuals, variables related to the worsening of major depression, and can frame directions on controlling valuable involvements. 
